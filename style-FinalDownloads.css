@@ -1,0 +1,181 @@
+
+body{background-color:  #C8D8D9 ;
+    padding:250px; 
+}
+    a{background:transparent;
+        color: black;
+        text-decoration: none;
+       }
+
+.titulo-pagina{
+  position: absolute;
+  left: 30%;
+  top: -15%;
+  
+  
+  font-size: 130px;
+
+  font-family: 'Pacifico' ,cursive;
+
+}
+        .titulo-apli{position:absolute;
+        
+          border: 3.5px solid gray;
+          margin: 10px;
+        
+          
+            top:250px;
+            height: 55px;
+            text-align: center;
+            font-family: 'Bree Serif', serif;
+             background: White;
+             top:220px;
+            left: 460px;
+            width: 500px;
+            border-radius: 10px;
+        
+        }
+        
+        .parrafo{position: absolute;
+          overflow:visible;
+          text-align: center;
+
+            height: 30px;
+            font-family: 'Bree Serif', serif;
+            top:300px;
+            left:490px;
+            background:#dfdfdf ;
+            border: 2.5px solid gray;
+            border-radius: 10px;
+            padding: 60px;
+            padding-top: 0px;
+        
+        }
+
+
+.imgCabecera{position:relative;
+            left:-240px;
+            top:-75px;
+            border: 3.5px #606060;
+            border-radius: 10px;
+            border-style: solid;           
+
+
+
+}
+
+
+.grupo-fotos{position:absolute;
+             
+             min-height: auto;
+  
+             left: 40%;
+             top:72%;
+
+
+
+}
+
+
+
+.foto-izquierda{border: solid 10px gray;
+                border-radius: 15px;
+
+
+}
+
+.foto-derecha{border: solid 10px gray;
+  border-radius: 15px;}
+
+
+        .titulo-footer{position:relative;
+          margin-bottom: 100px;
+            bottom: 150px;
+            font-size: 40px;
+           font-family:'Pacifico', cursive;
+          /* posicion titulo inferior */
+          margin:180px;
+          margin-bottom: 200px;
+          left:50px;
+          }
+
+
+          
+  .line-1{position: absolute;
+    left:500px;
+    top:1150px;
+  
+    
+   
+
+    }
+  
+  
+  .line-1 .line-2 {
+      text-align: center;
+    float: left;
+    padding: 25px;
+    margin-left: 25px;
+    background-color: transparent;
+    font-family: 'Bree Serif', serif;
+
+  
+  }
+
+  .logo-2{font-family: 'Bree Serif', serif;
+         position: absolute;
+           bottom: -50px;
+           left: 80px;
+        
+          word-spacing: 20px;
+          
+          }
+
+          .imagen-fondo{position:absolute;
+          left:580px;
+        bottom: -530px;
+     
+      
+      }
+     
+     .imagen-footer{position: absolute;
+    bottom: -220px;
+    left: 660px;
+    
+    }
+     
+     
+     
+      .footer-link{
+
+        position:absolute;
+        top: 750px;
+        left:60%;
+      
+      
+      
+      
+      font-family: 'PT Serif', serif;
+      
+      }
+
+      .link-formulario{    
+        position:absolute;
+        top: 750px;
+        left:40%;
+      
+      
+      
+      
+      font-family: 'PT Serif', serif;}
+      
+      
+      .footer-company-name{
+      
+        position:absolute;
+       padding: 40px;
+        top: 800px;
+        left:44%;
+      font-family:'PT Serif', serif;
+      
+      }
